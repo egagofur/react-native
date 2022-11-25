@@ -1,4 +1,9 @@
 {
   "name": "TugasAkhir",
-  "displayName": "TugasAkhir"
+  "displayName": "Opon Komputer",
+  "extra": {
+    "eas": {
+      "projectId": "2a43902f-5c97-4839-99b4-acd623c27e48"
+    }
+  }
 }
